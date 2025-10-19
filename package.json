@@ -15,7 +15,7 @@
     "react": "19.0.0",
     "react-native": "0.79.6",
     "react-native-macos": "^0.79.0",
-    "react-native-node-api": "file:../react-native-node-api-modules/packages/host/react-native-node-api-0.5.1.tgz"
+    "react-native-node-api": "file:../react-native-node-api-modules/packages/host/react-native-node-api-0.5.2.tgz"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
