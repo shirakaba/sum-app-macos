@@ -11,7 +11,6 @@
     "test": "jest"
   },
   "dependencies": {
-    "@nativescript/ios-node-api": "file:../napi-ios/packages/ios",
     "@nativescript/macos-node-api": "file:../napi-ios/packages/macos",
     "react": "19.0.0",
     "react-native": "0.79.6",
